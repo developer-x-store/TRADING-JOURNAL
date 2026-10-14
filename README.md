@@ -2,7 +2,7 @@
 
   <h3>📊 FX Discipline & Journal</h3>
   
-  <p><strong>A Premium, Offline Forex Trading Journal & Discipline Tracker.</strong></p>
+  <p><strong>INSTALL This app only use MT manager ⚠️ only.</strong></p>
 
   <!-- BADGES -->
   <a href="https://github.com/developer-x-store/TRADING-JOURNAL/releases/download/TRADING-JOURNAL-pro/JOURNAL_.apk">
