@@ -1,9 +1,6 @@
-###TRADING JOURNAL pro
 
-<!-- ================= HEADER SECTION ================= -->
-<div align="center">
   
-  <img src="YOUR_APP_ICON_LINK_HERE" alt="App Logo" width="120" height="120" style="border-radius: 25px; box-shadow: 0px 0px 20px #00FFFF;">
+alt="App Logo" width="120" height="120" style="border-radius: 25px; box-shadow: 0px 0px 20px #00FFFF;">
 
   <h1>📊 FX Discipline & Journal</h1>
   
@@ -35,12 +32,6 @@
 
 ---
 
-## 📸 App Preview
-
-| Dashboard | Discipline Checklist | Post-Trade Journal |
-| :---: | :---: | :---: |
-| <img src="YOUR_IMAGE_LINK_1" width="250" style="border-radius: 10px;"> | <img src="YOUR_IMAGE_LINK_2" width="250" style="border-radius: 10px;"> | <img src="YOUR_IMAGE_LINK_3" width="250" style="border-radius: 10px;"> |
-| *Live Monthly Stats* | *Strict Entry Rules* | *Voice & Notes* |
 
 | Analytics Vault | Market Sessions | Smart Vault |
 | :---: | :---: | :---: |
@@ -69,11 +60,3 @@
 This app is a personal trading journal and discipline tracker. It does **not** execute trades, provide financial advice, or guarantee profits. Trading involves risk. Use this tool to build discipline and review your own performance. The developer is not responsible for any financial losses.
 
 ---
-
-<div align="center">
-  <b>Developed with ❤️ by [YOUR NAME]</b><br>
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a> • 
-  <a href="https://t.me/YOUR_TELEGRAM">Telegram</a>
-  <br><br>
-  <i>If you found this project helpful, please give it a ⭐!</i>
-</div>
