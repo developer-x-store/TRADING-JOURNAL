@@ -1,11 +1,11 @@
 
 
-  <h1>📊 FX Discipline & Journal</h1>
+  <h3>📊 FX Discipline & Journal</h3>
   
   <p><strong>A Premium, Offline Forex Trading Journal & Discipline Tracker.</strong></p>
 
   <!-- BADGES -->
-  <a href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases">
+  <a href="https://github.com/developer-x-store/TRADING-JOURNAL/releases/download/TRADING-JOURNAL-pro/JOURNAL_.apk">
     <img src="https://img.shields.io/badge/Download-APK-00FFFF?style=for-the-badge&logo=android" alt="Download APK">
   </a>
   <img src="https://img.shields.io/badge/Platform-Android_8.0+-3DDC84?style=for-the-badge&logo=android" alt="Platform">
@@ -46,7 +46,7 @@
 - **Min SDK:** Android 8.0 (API 26)
 
 ### 🚀 How to Install
-1. Go to the **[Releases](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases)** section.
+1. Go to the **[Releases](https://github.com/developer-x-store/TRADING-JOURNAL/releases/tag/TRADING-JOURNAL-pro)** section.
 2. Download the latest `.apk` file.
 3. Install it on your Android device (Allow "Install from Unknown Sources" if prompted).
 4. Open the app and start your disciplined trading journey!
