@@ -31,12 +31,7 @@
 ---
 
 
-| Analytics Vault | Market Sessions | Smart Vault |
-| :---: | :---: | :---: |
-| <img src="YOUR_IMAGE_LINK_4" width="250" style="border-radius: 10px;"> | <img src="YOUR_IMAGE_LINK_5" width="250" style="border-radius: 10px;"> | <img src="YOUR_IMAGE_LINK_6" width="250" style="border-radius: 10px;"> |
-| *Win Rate & D-Score* | *Live Session Timers* | *Searchable Trade Log* |
-
----
+| Analytics Vault | Market Sessions | 
 
 ## ⚙️ Tech Stack & Setup
 
