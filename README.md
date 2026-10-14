@@ -1,6 +1,4 @@
 
-  
-alt="App Logo" width="120" height="120" style="border-radius: 25px; box-shadow: 0px 0px 20px #00FFFF;">
 
   <h1>📊 FX Discipline & Journal</h1>
   
